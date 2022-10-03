@@ -9,8 +9,6 @@ Including reporting into your project is easy - just install the agent and provi
 
 ## Installation
 
-    pip install robotframework-zebrunner
-
 
 ## Configuration
 After the installation, reporting is disabled by default. It won't send any data to the Zebrunner service without a valid configuration.
